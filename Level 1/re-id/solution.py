@@ -13,7 +13,7 @@ def get_prime_sequence(n):
     primes_table = [True for i in range(n+1)] 
     p_num = 2
 
-    # apply Eratosthenes sieve to tabularise primes up to number n
+    # apply Eratosthenes sieve to tabulate primes up to number n
     while (p_num**2 <= n):
         # if a prime is identified, iterate through all of its products and set them to false (as they are divisible by p_num on principle)
         if (primes_table[p_num] == True):
