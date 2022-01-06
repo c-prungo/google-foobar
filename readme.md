@@ -8,10 +8,10 @@ Inside each level is a challenge folder with a problem file describing the chall
 
 Have a look at [story.md](https://github.com/c-prungo/google-foobar/blob/main/story.md)
 
-## Level 1
+## LEVEL 1
 
-- Re-ID
+- [Re-ID](https://github.com/c-prungo/google-foobar/tree/main/Level%201/re-id)
 
-## Level 2
+## LEVEL 2
 
-- Gearing up for Destruction
+- [Gearing up for Destruction](https://github.com/c-prungo/google-foobar/tree/main/Level%202/gearing_up_for_destruction)

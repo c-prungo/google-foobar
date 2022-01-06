@@ -21,7 +21,7 @@ The list pegs will be given sorted in ascending order and will contain at least 
 
 ## Test Cases
 
-### Test Case 1
+### TEST CASE 1
 
 Inputs:
 
@@ -34,6 +34,8 @@ Output:
 ```python
 (int list) [12, 1]
 ```
+
+### TEST CASE 2
 
 Inputs:
 

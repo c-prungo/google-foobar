@@ -17,7 +17,7 @@ Help the Commander assign these IDs by writing a function answer(n) which takes 
 
 ## Test Cases
 
-### Test Case 1
+### TEST CASE 1
 
 Inputs:
 
@@ -31,7 +31,7 @@ Output:
 (str) "23571"
 ```
 
-#### Test Case 2
+#### TEST CASE 2
 
 Inputs:
 
